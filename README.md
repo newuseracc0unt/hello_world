@@ -1,2 +1,3 @@
 # hello_world
 hello world repository
+Hi, I'm learing to use gh, first steps are now on...
